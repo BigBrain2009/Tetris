@@ -20,16 +20,13 @@ Ce projet est une implémentation simple du jeu classique Tetris en utilisant Py
 
 1. Clonez ce dépôt : 
 
-git clone https://github.com/votre-nom-utilisateur/mon-tetris.git
-
+git clone https://github.com/BigBrain2009/Tetris.git
 2. Installez les dépendances : pip install pygame
 
 
 ## Utilisation
 
-Exécutez le fichier `tetris.py` :
-
-![Tetris](tetris_aperçu.png)
+Exécutez le fichier `tetris.py` : python tetris.py ou python3 tetris.py
 
 
 
@@ -61,6 +58,5 @@ Le niveau augmente tous les 1000 points. Chaque niveau accélère la chute des p
 - Flèche bas : Accélérer la chute de la pièce
 - Flèche haut : Rotation de la pièce
 
-Bonne chance et amusez-vous bien !
+# Bonne chance et amusez-vous bien !
 
-# Tetris
