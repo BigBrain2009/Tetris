@@ -1,0 +1,25 @@
+# Fichiers Python
+*.pyc
+__pycache__/
+
+# Environnements virtuels
+venv/
+env/
+.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers IDE
+.vscode/
+.idea/
+*.swp
+
+# Fichiers de logs
+*.log
+
+# Fichiers de build
+build/
+dist/
+*.egg-info/
